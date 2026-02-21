@@ -56,7 +56,7 @@ Funciona em **qualquer site do planeta** — todos os encurtadores (Linkvertise,
 - Monitor de performance + proteção anti-loop
 
 ### Instalação (Tampermonkey / Violentmonkey)
-1. Instale o **Tampermonkey** no Chrome/Edge/Firefox/Brave.
+1. Instale o **Tampermonkey** no Chrome/Edge/Firefox/Brave/Opera/.../.
 2. Clique no ícone do Tampermonkey → **Criar um novo script**.
 3. Apague todo o código padrão.
 4. Cole o código completo do script.
